@@ -1,0 +1,4 @@
+# jenkins
+host=http://jenkins.xxx.com
+user=test
+pass=pass
